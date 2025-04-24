@@ -1,6 +1,6 @@
 Browser Environment Dashboard
 
-A simple HTML and JavaScript-based dashboard that displays useful browser, screen, and page information. This project is part of coursework for **IT 303 – Web Systems and Technologies** at Partido State University.
+A simple HTML and JavaScript-based dashboard that displays useful browser, screen, and page information. This project is part of coursework for **PF2-EVENT DRIVEN PROGRAMMING** at Partido State University.
 
 ---
 
@@ -38,7 +38,7 @@ Technologies Used
 Activities Linked
 
 1. [Guess the Secret Word Game](https://lo-glitch712.github.io/Guessing_Game/)
-2. [Browser Environment Dashboard]([browser_dashboard.html](https://lo-glitch712.github.io/Browser_dashboard/).
+2. [Browser Environment Dashboard](https://lo-glitch712.github.io/Browser_dashboard/).
 
 ---
 
