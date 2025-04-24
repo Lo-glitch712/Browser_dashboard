@@ -38,7 +38,7 @@ Technologies Used
 Activities Linked
 
 1. [Guess the Secret Word Game](https://lo-glitch712.github.io/Guessing_Game/)
-2. [Browser Environment Dashboard](browser_dashboard.html)
+2. [Browser Environment Dashboard]([browser_dashboard.html](https://lo-glitch712.github.io/Browser_dashboard/).
 
 ---
 
