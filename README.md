@@ -39,6 +39,9 @@ Activities Linked
 
 1. [Guess the Secret Word Game](https://lo-glitch712.github.io/Guessing_Game/)
 2. [Browser Environment Dashboard](https://lo-glitch712.github.io/Browser_dashboard/).
+3. [Interactive DOM](https://lo-glitch712.github.io/Interactive-DOM/).
+4. [Interactive Canvas](https://lo-glitch712.github.io/Interactive_Canvas/).
+5. [GROUP 4 - Taskify](https://projecttaskify.github.io/Taskify-Group4/).
 
 ---
 
